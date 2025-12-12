@@ -57,7 +57,3 @@ Estimation des coûts potentiels
 Analyse des options et des ressources nécessaires
 
 Projection budgétaire de la solution
-
-🔗 Analyse de coût : 
-
-https://docs.google.com/spreadsheets/d/1oGb7rTYxu6yPl2MJwVVyl8MD4JnarDcg3Dhh5rkR_e8/edit?usp=sharing
